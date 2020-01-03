@@ -1,0 +1,9 @@
+.story {
+    .progress {
+        outline:1px solid #2ab27b;
+
+        &::after {
+            background:hsl(156, 62%, 43%);
+        }
+    }
+}
